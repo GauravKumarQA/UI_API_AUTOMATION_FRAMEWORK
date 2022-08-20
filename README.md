@@ -1,17 +1,17 @@
 <h1 align="center">
-	Unzer Automation project
+	Automation project
 </h1>
 
 <h3 align="center">
-	This project is for Unzer automation assignment
+	This project is for automation
 </h3>
 
 <h4 align="center">
 	Status: 🚀 Finished
 </h4>
 
-## Solution for Assignment
- - Created a Test case as per the description.[API automation and UI automation]
+## Sample Test case
+ - Created a Test case.[API automation and UI automation]
    - Test cases include Precondition : Deleting all boards to make test enviroment clean before new execution,This step we have   Automated via API automation.
    - Assignement part 1[API automation]: Create a board using API's.
    - Assignement part 2[ UI automation]: Now login with UI and perform few actions on created board. [UI Automation] , For this implimentation we lauched the    chrome browser using selenium
@@ -58,4 +58,3 @@ To Run a test, follow the steps above:
 
 This is the first step to create a mulitplatform platform with one test case design pattern.
 This framework is highly scalable and easy to maintain.
-For details we can discuss.
