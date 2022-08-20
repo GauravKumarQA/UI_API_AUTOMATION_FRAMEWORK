@@ -1,0 +1,9 @@
+/.metadata/
+*.class
+/AutomationProject/.settings
+/AutomationProject/logs
+/AutomationProject/Screenshots
+/AutomationProject/target
+/AutomationProject/test-output
+/AutomationProject/.classpath
+/AutomationProject/.project
